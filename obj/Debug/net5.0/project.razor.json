@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Admin\\Documents\\dotnet\\DemoMVc\\Views\\HelloWord\\Getname.cshtml",
+      "TargetPath": "Views\\HelloWord\\Getname.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Admin\\Documents\\dotnet\\DemoMVc\\Views\\Shared\\_LAYOUTNEW.cshtml",
       "TargetPath": "Views\\Shared\\_LAYOUTNEW.cshtml",
       "FileKind": "mvc"
@@ -15656,6 +15661,11 @@
     {
       "FilePath": "c:\\Users\\Admin\\Documents\\dotnet\\DemoMVc\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Documents\\dotnet\\DemoMVc\\Views\\HelloWord\\Index.cshtml",
+      "TargetPath": "Views\\HelloWord\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
